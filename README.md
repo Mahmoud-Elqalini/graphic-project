@@ -50,12 +50,6 @@ python main.py
 
 - [omar wagih] (https://github.com/omarwagih3)
 - [yousef abudaif] (https://github.com/Yousefabudaif)
-- [omar dawoud] 
-- [ahmed asal]
-- [Nedal elsayed]
-- [abdallah abdelnasser]
-- [mohamed mahmoud]
-- [mohamed mosaad]
-- [ali abd elrehem]
+
 
 Enjoy the game, and may the best tank win!
